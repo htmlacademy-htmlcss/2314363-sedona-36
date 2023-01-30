@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Надежда Денисова](https://up.htmlacademy.ru/htmlcss/36/user/2314363).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya)
 
 ---
 
